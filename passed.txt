@@ -1,6 +1,6 @@
 James : m : 90.0%
 Allen : m : 75.0%
-Maria : m : 100.0%
+Maria : f : 100.0%
 
 Males - 2
 Females - 1
