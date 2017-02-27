@@ -1,0 +1,6 @@
+Harry : m : 30.0%
+Molly : f : 0.0%
+Emma : f : 25.0%
+
+Males - 1
+Females - 2
